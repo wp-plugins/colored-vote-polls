@@ -1,0 +1,434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Colored votes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-31 00:12+0100\n"
+"PO-Revision-Date: 2011-12-31 00:12+0100\n"
+"Last-Translator: Wysija <kim@wysija.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: utf-8\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../color-vote-polls.php:43
+msgid "This Poll is closed!!"
+msgstr ""
+
+#: ../color-vote-polls.php:44
+msgid "Please log in to Vote!!"
+msgstr ""
+
+#: ../color-vote-polls.php:45
+msgid "You Have Already Voted For This Poll!!"
+msgstr ""
+
+#: ../color-vote-polls.php:175
+msgid "Colored Vote Poll Preview"
+msgstr ""
+
+#: ../color-vote-polls.php:224
+#: ../admin/menu.php:48
+msgid "Delete the Poll with ID "
+msgstr ""
+
+#: ../color-vote-polls.php:225
+msgid "Answer is mandatory!! "
+msgstr ""
+
+#: ../color-vote-polls.php:227
+msgid "Expand to read more. "
+msgstr ""
+
+#: ../admin/add.php:146
+#: ../admin/menu.php:14
+msgid "Add Colored Poll"
+msgstr ""
+
+#: ../admin/add.php:152
+#: ../admin/add.php:364
+msgid "Title"
+msgstr ""
+
+#: ../admin/add.php:153
+#: ../admin/add.php:365
+msgid "Your Title..."
+msgstr ""
+
+#: ../admin/add.php:156
+#: ../admin/add.php:368
+msgid "Description"
+msgstr ""
+
+#: ../admin/add.php:166
+#: ../admin/add.php:378
+msgid "Questions"
+msgstr ""
+
+#: ../admin/add.php:172
+#: ../admin/add.php:385
+#: ../admin/menu.php:130
+msgid "Mandatory"
+msgstr ""
+
+#: ../admin/add.php:177
+#: ../admin/add.php:391
+msgid "Add question"
+msgstr ""
+
+#: ../admin/add.php:181
+#: ../admin/add.php:396
+msgid "Answers"
+msgstr ""
+
+#: ../admin/add.php:185
+#: ../admin/add.php:400
+msgid "My answers start by"
+msgstr ""
+
+#: ../admin/add.php:186
+#: ../admin/add.php:401
+msgid "negatives and end with positives"
+msgstr ""
+
+#: ../admin/add.php:187
+#: ../admin/add.php:402
+msgid "positives and end with negatives"
+msgstr ""
+
+#: ../admin/add.php:239
+#: ../admin/add.php:454
+msgid "Add answer"
+msgstr ""
+
+#: ../admin/add.php:241
+#: ../admin/add.php:455
+msgid "Reset Colors"
+msgstr ""
+
+#: ../admin/add.php:249
+#: ../admin/add.php:463
+msgid "Color of unanswered question"
+msgstr ""
+
+#: ../admin/add.php:270
+#: ../admin/add.php:484
+#: ../admin/menu.php:16
+msgid "Settings"
+msgstr ""
+
+#: ../admin/add.php:274
+#: ../admin/add.php:488
+#: ../admin/polls.php:18
+#: ../admin/polls.php:66
+msgid "Status"
+msgstr ""
+
+#: ../admin/add.php:275
+#: ../admin/add.php:489
+msgid "open"
+msgstr ""
+
+#: ../admin/add.php:276
+#: ../admin/add.php:490
+#: ../admin/polls.php:27
+#: ../admin/polls.php:37
+msgid "closed"
+msgstr ""
+
+#: ../admin/add.php:281
+#: ../admin/add.php:495
+msgid "Closing vote date"
+msgstr ""
+
+#: ../admin/add.php:282
+#: ../admin/add.php:496
+msgid "Never"
+msgstr ""
+
+#: ../admin/add.php:283
+#: ../admin/add.php:497
+msgid "yyyy/dd/mm"
+msgstr ""
+
+#: ../admin/add.php:288
+#: ../admin/add.php:502
+msgid "Display results by..."
+msgstr ""
+
+#: ../admin/add.php:289
+#: ../admin/add.php:503
+msgid "questions with most positive answers first"
+msgstr ""
+
+#: ../admin/add.php:290
+#: ../admin/add.php:504
+msgid "questions with most negative answers first"
+msgstr ""
+
+#: ../admin/add.php:291
+#: ../admin/add.php:505
+msgid "original order of questions"
+msgstr ""
+
+#: ../admin/add.php:296
+#: ../admin/add.php:510
+msgid "Allow to view results without voting"
+msgstr ""
+
+#: ../admin/add.php:297
+#: ../admin/add.php:308
+#: ../admin/add.php:511
+#: ../admin/add.php:522
+msgid "Yes"
+msgstr ""
+
+#: ../admin/add.php:302
+#: ../admin/add.php:516
+msgid "Poll's URL"
+msgstr ""
+
+#: ../admin/add.php:307
+#: ../admin/add.php:521
+msgid "Allow visitors to add questions?"
+msgstr ""
+
+#: ../admin/add.php:314
+#: ../admin/add.php:528
+msgid "Category"
+msgstr ""
+
+#: ../admin/add.php:316
+#: ../admin/add.php:530
+msgid "Select a category"
+msgstr ""
+
+#: ../admin/add.php:330
+#: ../admin/add.php:549
+#: ../admin/settings.php:79
+msgid "Save"
+msgstr ""
+
+#: ../admin/add.php:341
+#: ../admin/add.php:560
+msgid "Add this poll to your article"
+msgstr ""
+
+#: ../admin/add.php:342
+#: ../admin/add.php:561
+msgid "Copy and paste the \"shortcode\" below into any page or article you  wish"
+msgstr ""
+
+#: ../admin/add.php:358
+msgid "Edit Colored Poll - ID "
+msgstr ""
+
+#: ../admin/export-poll.php:33
+msgid "Question Title"
+msgstr ""
+
+#: ../admin/export-poll.php:37
+#: ../includes/shortcodes.php:148
+msgid "No vote"
+msgstr ""
+
+#: ../admin/menu.php:10
+msgid "Colored Votes"
+msgstr ""
+
+#: ../admin/menu.php:11
+#: ../admin/polls.php:9
+msgid "Colored Vote Polls"
+msgstr ""
+
+#: ../admin/menu.php:11
+msgid "Polls"
+msgstr ""
+
+#: ../admin/menu.php:14
+#: ../admin/menu.php:15
+msgid "Add New"
+msgstr ""
+
+#: ../admin/menu.php:15
+msgid "Edit Colored Poll"
+msgstr ""
+
+#: ../admin/menu.php:16
+#: ../admin/settings.php:7
+msgid "Colored Vote Polls Settings"
+msgstr ""
+
+#: ../admin/menu.php:101
+msgid "Poll expiry date"
+msgstr ""
+
+#: ../admin/menu.php:110
+msgid "Colored Vote Polls - Default settings saved !!"
+msgstr ""
+
+#: ../admin/menu.php:149
+msgid "I love it"
+msgstr ""
+
+#: ../admin/polls.php:15
+#: ../admin/polls.php:63
+msgid "Poll Title"
+msgstr ""
+
+#: ../admin/polls.php:16
+#: ../admin/polls.php:64
+msgid "Votes"
+msgstr ""
+
+#: ../admin/polls.php:17
+#: ../admin/polls.php:65
+msgid "Date Published"
+msgstr ""
+
+#: ../admin/polls.php:19
+#: ../admin/polls.php:67
+msgid "Shortcode"
+msgstr ""
+
+#: ../admin/polls.php:31
+msgid "never expires"
+msgstr ""
+
+#: ../admin/polls.php:35
+msgid "expires in "
+msgstr ""
+
+#: ../admin/polls.php:45
+msgid "Edit"
+msgstr ""
+
+#: ../admin/polls.php:49
+msgid "Preview"
+msgstr ""
+
+#: ../admin/polls.php:50
+msgid "Export to CSV"
+msgstr ""
+
+#: ../admin/polls.php:51
+msgid "Delete"
+msgstr ""
+
+#: ../admin/settings.php:13
+msgid "Who can vote?"
+msgstr ""
+
+#: ../admin/settings.php:14
+msgid "Everybody"
+msgstr ""
+
+#: ../admin/settings.php:15
+msgid "Registered users"
+msgstr ""
+
+#: ../admin/settings.php:20
+msgid "Track voters by..."
+msgstr ""
+
+#: ../admin/settings.php:21
+msgid "User login, Cookies & IP"
+msgstr ""
+
+#: ../admin/settings.php:22
+msgid "Cookies only"
+msgstr ""
+
+#: ../admin/settings.php:23
+msgid "IP only (not recommended)"
+msgstr ""
+
+#: ../admin/settings.php:28
+msgid "Default colors"
+msgstr ""
+
+#: ../admin/settings.php:65
+msgid "Add \"read more\" if a question's description is more than"
+msgstr ""
+
+#: ../admin/settings.php:66
+msgid "characters"
+msgstr ""
+
+#: ../admin/settings.php:71
+msgid "Send email notification when new question is added to a poll"
+msgstr ""
+
+#: ../admin/settings.php:72
+msgid "Yes, send to site admin"
+msgstr ""
+
+#: ../includes/front.php:74
+msgid "Guest"
+msgstr ""
+
+#: ../includes/functions.php:153
+msgid "Question Title:  "
+msgstr ""
+
+#: ../includes/functions.php:153
+msgid "Description:  "
+msgstr ""
+
+#: ../includes/functions.php:155
+msgid "Edit this Poll :  "
+msgstr ""
+
+#: ../includes/functions.php:158
+msgid "New Question added to Poll ID "
+msgstr ""
+
+#: ../includes/shortcodes.php:63
+msgid "This Question is Mandatory"
+msgstr ""
+
+#: ../includes/shortcodes.php:91
+msgid "Add your own question"
+msgstr ""
+
+#: ../includes/shortcodes.php:93
+msgid "Add your question"
+msgstr ""
+
+#: ../includes/shortcodes.php:94
+msgid "Your question"
+msgstr ""
+
+#: ../includes/shortcodes.php:95
+msgid "Description..."
+msgstr ""
+
+#: ../includes/shortcodes.php:96
+msgid "Submit"
+msgstr ""
+
+#: ../includes/shortcodes.php:102
+#: ../includes/shortcodes.php:106
+msgid "Vote!"
+msgstr ""
+
+#: ../includes/shortcodes.php:109
+msgid "Show me the results"
+msgstr ""
+
+#: ../includes/shortcodes.php:152
+msgid "Total voters: "
+msgstr ""
+
+#: ../includes/shortcodes.php:243
+msgid " votes"
+msgstr ""
+
+#: ../includes/shortcodes.php:250
+msgid "Let me Vote!"
+msgstr ""
+
