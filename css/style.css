@@ -1,0 +1,20 @@
+/* Plugin Name: Colored Vote Polls
+Plugin URI: http://www.webfanzine.com/colored-vote-polls/ 
+*/
+.wpcvp-wrap h2{margin-bottom:4px !important;}
+.wpcvp-wrap h3{margin-bottom:4px !important;}
+.wpcvp-wrap h3.totalh3{margin:50px auto 8px auto !important;text-align:center; }
+.wpcvp-wrap .pdesc{margin-bottom:15px;font-size:12px;}
+.wpcvp-wrap td{padding:2px !important;vertical-align:middle;text-align:center;border:none !important;}
+.wpcvp-wrap label.wpcvp-label{cursor:pointer;}
+.wpcvp-wrap .button{cursor:pointer;}
+.wpcvp-wrap input.aqid{margin:0;padding:0;}
+.wpcvp-wrap .pollq_title{width:60%;padding:0;margin:4px;}
+.wpcvp-wrap .pollq_desc{width:60%;padding:0;margin:4px;}
+.defaultValue{color:#bbb;font-family:Arial,Helvetica,sans-serif;font-size:12px !important;background:#fff; }
+.successModal {display: block;position: fixed;top: 45%;left: 25%;width: 300px;height: auto;padding: 5px 20px;border: 3px solid green;background-color: #EFE;
+z-index:1002;overflow: auto;-moz-border-radius: 15px;  -webkit-border-radius: 15px; -moz-box-shadow: 5px 5px 10px #cfcfcf; -webkit-box-shadow: 5px 5px 10px #cfcfcf;}
+.wpcvp_results,.wpcvp_vote_button{color:#0066cc;text-decoration:underline;font-size:13px;cursor:pointer;}
+.wpcvp-message{display:block;border:solid 1px #FDD425;background:#FEF5BE;color:#222222;padding:4px;text-align:center;margin-right:10px;color:#545454;font-size:0.8em;}
+.wpcvp-addq{display:none;margin-top:20px;}
+.wpcvp-error { float: none; font-weight:bold; color: red; vertical-align: top; font-size:0.7em;;}
