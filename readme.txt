@@ -2,7 +2,7 @@
 Contributors: lafabriquedeblogs, internet techies
 Tags: vote, poll, color, colour, survey
 Requires at least: 3.0
-Tested up to: 3.3.1
+Tested up to: 4.2
 Stable tag: 1.0
 
 Add polls with multiple choice of answers to your site. Display the results in colors from red to green, or any color you like. Perfect to show your participants' trends, tendencies or preferences.
